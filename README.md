@@ -51,7 +51,6 @@
   <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gabriel.m.s.a@outlook.com.com)
-  [![Discord](https://img.shields.io/badge/Discord-123845?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/187702093195247616)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gabriel-albino-24a875274/)
   
 </div>
