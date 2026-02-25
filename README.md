@@ -50,7 +50,7 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gabriel.m.s.a@outlook.com.com)
+  _blank[![Gmail](https://img.shields.io/badge/Gmail-123845?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:gabriel.m.s.a@outlook.com.com)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-123845?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/gabriel-albino-24a875274/)
   
 </div>
